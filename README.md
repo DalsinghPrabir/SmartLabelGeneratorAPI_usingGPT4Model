@@ -1,0 +1,3 @@
+c # 
+.NET CORE  API
+GPT 4 MODEL
