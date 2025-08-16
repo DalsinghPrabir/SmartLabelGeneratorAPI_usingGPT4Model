@@ -1,3 +1,1 @@
-c # 
-.NET CORE  API
-GPT 4 MODEL
+this is a  API using .net core 
